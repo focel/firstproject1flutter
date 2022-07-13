@@ -3,6 +3,8 @@
 This is my my first project in flutter in case that it doesn't run, please use this command in CMD:
 
 flutter pub get
+
+
 flutter packages pub run build_runner build --delete-conflicting-outputs
 
 
